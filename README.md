@@ -12,12 +12,6 @@ This is one of my first web design projects where I learned how to create a full
 - **Clean Layout:** The design emphasizes clarity and user-friendliness with well-structured content.
 - **Custom Styling:** Utilizes CSS for customized styling to give the website a professional look.
 
-## Usage
+## View the Project
 
-You can view the live version of the website through the link above or clone the repository to explore the code.
-
-```bash
-git clone https://github.com/DuaaScripts/Acme_WebDesign.git
-```
-
-Open the `index.html` file in your browser to see the website in action.
+You can view the live version of the website through the link above to see it in action.
